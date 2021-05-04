@@ -46,16 +46,16 @@ The design, approach is shortly explained in proposal.pdf
 The details of the projects and steps taken are described in Arvato Financial Capstone Report.pdf
 
 ### There are 4 parts we are going to address
-* Data Preprocessing
+* **Data Preprocessing (Feature Engineering notebook)**
 In this part we need to preprocess data for further analysis. Missing values by columns and rows will be analysed, data will be divided by types followed by subsequent transformations.
 
-* Customer Segmentation & Unsupervised learning ( unsupervised learning notebook )
+* **Customer Segmentation & Unsupervised learning ( unsupervised learning notebook )**
 In this part we need to analyze general population and customer segment data sets and use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. I will use principal component analysis (PCA) technique for dimensionality reduction. Then, elbow curve will be used to identify the best number of clusters for KMeans algorithm. Finally, I will apply KMeans to make segmentation of population and customers and determine description of target cluster for the company.
 
-* Supervised Learning Model ( supervised learning notebook ) 
+* **Supervised Learning Model ( supervised learning notebook ) **
 In this part we need to build machine learning model using response of marketing campaign and use model to predict which individuals are most likely to convert into becoming customers for the company. I will use several machine learning classifiers and choose the best using analysis of learning curve. Then, I will parametrize the model and make predictions.
 
-* Kaggle Competition ( submission and results captured as part of supervised learning notebook )
+* **Kaggle Competition ( submission and results captured as part of supervised learning notebook )**
 The results of this part need to be submitted for Kaggle competition
 
 ## Thanks

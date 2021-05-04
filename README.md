@@ -38,4 +38,7 @@ This must be run in AWS Sagemaker notebook only
 ## Thanks
 Thanks for providing the dataset to Arvato, without which this project wouldn't have been possible
 
+## Kaggle 
+![Score Card](scoreboard_xgboost1.png)
+
 

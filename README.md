@@ -41,4 +41,7 @@ Thanks for providing the dataset to Arvato, without which this project wouldn't 
 ## Kaggle 
 ![Score Card](scoreboard_xgboost1.png)
 
+Submission here - https://www.kaggle.com/c/udacity-arvato-identify-customers
+
+
 
